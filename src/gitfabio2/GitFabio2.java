@@ -15,7 +15,7 @@ public class GitFabio2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Adiós mundo cruel!!!");
+        System.out.println("¡¡¡¡Adiós mundo cruel!!!");
     }
     
 }
